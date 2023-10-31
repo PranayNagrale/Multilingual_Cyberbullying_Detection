@@ -1,2 +1,0 @@
-# Multilingual_Cyberbullying_Detection
-College project
