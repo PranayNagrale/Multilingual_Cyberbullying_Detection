@@ -1,5 +1,5 @@
 pip-tools
-streamlit==1.2.2
+streamlit
 nltk
 scikit-learn
 pandas
