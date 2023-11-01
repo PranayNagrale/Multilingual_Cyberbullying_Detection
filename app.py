@@ -11,7 +11,7 @@ import requests
 
 model = fasttext.load_model('fast_model.bin')
 
-with open('gnb_ft_model.pkl', 'rb') as f:
+with open('rf_ft_model.pkl', 'rb') as f:
     clf = pickle.load(f, encoding='latin1')
 
 with open('all_stopword.txt', 'r') as f:
