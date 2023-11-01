@@ -1,3 +1,4 @@
+pip==23.3.1
 streamlit
 nltk
 scikit-learn
