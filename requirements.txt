@@ -4,4 +4,5 @@ nltk
 scikit-learn
 pandas
 numpy
-fasttext-0.9.2-cp311-cp311-win_amd64.whl
+fasttext==0.9.2
+
