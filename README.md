@@ -11,7 +11,7 @@ accuracy and F1-score and Recall. Our System can be amplified to other languages
 to protect clients from online harassment and cyberbullying or abuse. The results of our experiments have shown
 an accuracy up-to 95% and F1-score up-to 94%.
 
-Fasttext Model Trained and Used (fast_model.bin) : 
+*Fasttext Model Trained and Used (fast_model.bin) : 
 https://drive.google.com/file/d/1-9HBUQustFhYj13E3zuosKsw3CSOc7gK/view?usp=drive_link
 
 Bengali Dataset : 
